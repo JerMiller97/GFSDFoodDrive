@@ -62,7 +62,6 @@ session_start();
 
 include '../dbconfig.php';
 
-
 $sql = "SELECT userID, username, FirstName, LastName, permission FROM tblUser
 order by userID desc";
 $result = $conn->query($sql);

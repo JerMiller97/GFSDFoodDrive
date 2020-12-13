@@ -32,9 +32,6 @@
         <main class="col-12 col-md-9 py-md-3 pl-md-5 bd-content" role="main">
           <h2 id="content">All Families</h2>
 		  <br>
-
-		  
-		  
 		 <table class="table table-hover">
   <thead>
     <tr>
